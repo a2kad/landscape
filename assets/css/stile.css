@@ -1,6 +1,6 @@
 @media (orientation:landscape){
     body {
-        background-image: url("/assets/img/demon.webp");
+        background-image: url("assets/img/demon.webp");
         background-repeat: no-repeat;
         background-position-x: center;
         background-position-y: top;
@@ -10,7 +10,7 @@
 }
 @media (orientation:portrait){
     body {
-        background-image: url("/assets/img/ange.jpg");
+        background-image: url("assets/img/ange.jpg");
         background-repeat: no-repeat;
         background-position-x: center;
         background-position-y: top;
