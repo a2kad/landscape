@@ -1,6 +1,6 @@
 @media (orientation:landscape){
     body {
-        background-image: url("../../assets/img/demon.webp");
+        background-image: url("../img/demon.webp");
         background-repeat: no-repeat;
         background-position-x: center;
         background-position-y: top;
