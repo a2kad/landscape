@@ -1,20 +1,27 @@
 @media (orientation:landscape){
     body {
-        background-image: url("../img/demon.webp");
-        background-repeat: no-repeat;
-        background-position-x: center;
-        background-position-y: top;
-        background-size: cover;
-        background-attachment: fixed;
+        background: linear-gradient(90deg, #2f80FF, #3ccbff);
+        color: white;
+        font-size: 20vw;
+    }
+    i.fa-solid.fa-fire{
+        display: none;
     }
 }
 @media (orientation:portrait){
     body {
-        background-image: url("../img/ange.jpg");
-        background-repeat: no-repeat;
-        background-position-x: center;
-        background-position-y: top;
-        background-size: cover;
-        background-attachment: fixed;
+        background: linear-gradient(90deg, #6f085a, #c51c53);
+        color: white;
+        font-size: 30vh;
     }
+    i.fa-solid.fa-snowflake{
+        display: none;
+    }
+
 }
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    }
