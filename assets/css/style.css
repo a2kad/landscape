@@ -3,7 +3,7 @@
         background: linear-gradient(90deg, #2f80FF, #3ccbff);
         font-size: 20vw;
     }
-    i.fa-solid.fa-fire{
+    i.fa-solid.fa-skull{
         display: none;
     }
 }
@@ -12,7 +12,7 @@
         background: linear-gradient(90deg, #6f085a, #c51c53);
         font-size: 40vh;
     }
-    i.fa-solid.fa-snowflake{
+    i.fa-solid.fa-hands-praying{
         display: none;
     }
 }
