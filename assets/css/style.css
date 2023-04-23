@@ -10,7 +10,7 @@
 @media (orientation:portrait){
     body {
         background: linear-gradient(90deg, #6f085a, #c51c53);
-        font-size: 30vh;
+        font-size: 40vh;
     }
     i.fa-solid.fa-snowflake{
         display: none;
