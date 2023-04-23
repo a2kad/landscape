@@ -1,7 +1,6 @@
 @media (orientation:landscape){
     body {
         background: linear-gradient(90deg, #2f80FF, #3ccbff);
-        color: white;
         font-size: 20vw;
     }
     i.fa-solid.fa-fire{
@@ -11,13 +10,15 @@
 @media (orientation:portrait){
     body {
         background: linear-gradient(90deg, #6f085a, #c51c53);
-        color: white;
         font-size: 30vh;
     }
     i.fa-solid.fa-snowflake{
         display: none;
     }
-
+}
+body{
+    overflow: hidden;
+    color: white;
 }
 .center {
     display: flex;
